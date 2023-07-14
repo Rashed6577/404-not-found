@@ -1,6 +1,8 @@
-
+body{
+    height: 1vh;
+}
 .title{
-    font-family: inconsolata;
+    font-family: 'Inconsolata', monospace;
     color: #333;
     font-size: 25px;
     margin-top: 40px;
@@ -33,4 +35,11 @@ img{
     font-size: 15px;
     height: 50px;
     width: 200px;
+}
+footer{
+    color: #bdbdbd;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 12px;
+    margin-top: 200px;
 }
