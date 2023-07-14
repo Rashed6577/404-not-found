@@ -50,10 +50,11 @@ footer{
     }
     main{
         flex-direction: column;
+        margin: 10px;
     }
     img{
         height: 300px;
-        width: 380px;
+        width: 300px;
     }
     .right-side-title{
         font-size: 50px;
